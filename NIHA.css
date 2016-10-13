@@ -1,14 +1,31 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-	<title>NIHA</title>
+<style>
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
 </head>
-<body> 
-	<body style="background-color:skyblue;">
-<h1> HELLO WORLD</h1>
-		
-<h1> University At Buffalo </h1>
-<a href="www.buffalo.edu">UB</a> 
-<h1>IMAGES</h1>  <img src="https://cdn.evbuc.com/eventlogos/5586563/ublogo.gif" width="1362" height="544";">
+<body>
+p1 {
+    color: red ;
+    text-align: center;
+}
+
+<h1>Niharika Singh</h1>
+<p1>Vadodara, Gujrat.</p1>
+
 </body>
 </html>
+
