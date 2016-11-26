@@ -29,7 +29,7 @@ nav ul a {
 }
 article {
     margin-left: 170px;
-    border-left: 1px ornage;
+    border-left: 1px orange;
     padding: 1em;
     overflow: hidden;
 }
@@ -64,5 +64,5 @@ article {
     </article>
     
 
-<footer>Copyright © nileshsingh</footer>
+<footer>Copyright©nileshsingh</footer>
 
